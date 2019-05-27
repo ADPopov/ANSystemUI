@@ -1,0 +1,42 @@
+C:\Users\alexp\Documents\ANSystem\bin\Debug\ANSystem.exe.config
+C:\Users\alexp\Documents\ANSystem\bin\Debug\ANSystem.exe
+C:\Users\alexp\Documents\ANSystem\bin\Debug\ANSystem.pdb
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.csprojResolveAssemblyReference.cache
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.Properties.Resources.resources
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.View.TrainingAddForm.resources
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.View.TrainingsForm.resources
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.csproj.GenerateResource.cache
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.exe
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.pdb
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.View.SpotsmanAddForm.resources
+C:\Users\alexp\Documents\ANSystem\obj\Debug\ANSystem.View.SpotsmanForm.resources
+C:\Users\alexp\Documents\ANSystem\ANSystem\bin\Debug\ANSystem.exe.config
+C:\Users\alexp\Documents\ANSystem\ANSystem\bin\Debug\ANSystem.exe
+C:\Users\alexp\Documents\ANSystem\ANSystem\bin\Debug\ANSystem.pdb
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.View.SpotsmanAddForm.resources
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.View.SpotsmanForm.resources
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.Properties.Resources.resources
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.View.TrainingAddForm.resources
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.View.TrainingsForm.resources
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.csproj.GenerateResource.cache
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.exe
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.pdb
+C:\Users\alexp\Documents\ANSystem\ANSystem\obj\Debug\ANSystem.csprojAssemblyReference.cache
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.View.AuthorizationForm.resources
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.View.SpotsmanAddForm.resources
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.View.SpotsmanForm.resources
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.Properties.Resources.resources
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.View.TrainingAddForm.resources
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.View.TrainingsForm.resources
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.csproj.GenerateResource.cache
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.exe
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.pdb
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\bin\Debug\ANSystem.exe.config
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\bin\Debug\ANSystem.exe
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\bin\Debug\ANSystem.pdb
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.View.Form1.resources
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.csproj.ResolveComReference.cache
+C:\Users\alexp\Documents\ANSystem — копия\ANSystem\obj\Debug\ANSystem.csprojAssemblyReference.cache
